@@ -12,7 +12,7 @@ and lastly calculate the Annualized Standard Deviation
 
 # Rolling Statistics
 We will then Perform Rolling Statistics,
-we will Calculate and plot the rolling standard deviation for all portfolios using a 21-day window,
+we will calculate and plot the rolling standard deviation for all portfolios using a 21-day window,
 calculate and plot the correlation between each stock to determine which portfolios may mimick the S&P TSX 60,
 finally we will chose one portfolio to calculate and plot the 60-day rolling beta for it and the S&P TSX 60.
 
