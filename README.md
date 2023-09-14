@@ -26,12 +26,18 @@ We will then create a Custom Portfolio.
 We will download the data as CSV files and calculate the portfolio returns.
 Calculate the weighted returns of said portfolio, assuming equal number of shares per stock.
 Add my portfolio returns to the DataFrame with the other portfolios.
+
+
 We will also run the following analyses:
 
 Calculate the Annualized Standard Deviation.
+
 Calculate and plot rolling std with a 21-day window.
+
 Calculate and plot the correlation.
+
 Calculate and plot the 60-day rolling beta for your portfolio compared to the S&P 60 TSX.
+
 Calculate the Sharpe ratios and generate a bar plot.
 
 
