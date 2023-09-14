@@ -1,7 +1,7 @@
 # Module-4-Challenge
 
 In this repository you will find a .ipynb file named Whale Analysis
-In this file we will prepare CSV data files for analysis
+in this file we will prepare CSV data files for analysis
 We will conduct Quantitative Analysis between the data files and S&P TSX 60 
 
 # Risk Analysis
