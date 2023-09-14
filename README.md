@@ -5,10 +5,10 @@ in this file we will prepare CSV data files for analysis,
 we will conduct Quantitative Analysis between the data files and S&P TSX 60 
 
 # Risk Analysis
-We will then Perform Risk analysis for set data and box plot for each data,
-calculate the standard deviation for each portfolio,
-determine which portfolios are riskier than the S&P TSX 60,
-and lastly calculate the Annualized Standard Deviation
+We will then Perform Risk analysis for set data and box plot for each data.
+Calculate the standard deviation for each portfolio.
+Determine which portfolios are riskier than the S&P TSX 60.
+And lastly calculate the Annualized Standard Deviation.
 
 # Rolling Statistics
 We will then Perform Rolling Statistics,
